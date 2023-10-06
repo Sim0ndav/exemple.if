@@ -11,6 +11,7 @@ public class App {
         int primePotentielle = 250;
         int quota = 10;
 
+        // demande du nombres de ventes/ semaine
         System.out.println("Veuillez saisir votre nombre de ventes cette semaine :");
         int nbDeVentes = clavier.nextInt();
         clavier.close();
